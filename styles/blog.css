@@ -6,13 +6,13 @@ h3{
 
 .vlog{
     margin: 40px;
-    color: rgb(231, 29, 153);
+    color: rgb(6, 107, 46);
     border: 5px solid green ;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 10px 10px 10px;
 }
 .header{
-    border: 10px solid black;
-    width: 50%;
+    border: 3px solid rgb(13, 98, 24);
+    width: 30%;
 }

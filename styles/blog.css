@@ -10,9 +10,10 @@ h3{
     background-image: url('07.jpg');
     /* background-repeat: no-repeat; */
     background-repeat: repeat-x;
-    /* background-color: azure;
+    background-size: cover ;
+    background-color: azure;
     margin: 20px;
-    padding: 20px; */
+    padding: 20px;
 }
 
 .vlog{

@@ -6,4 +6,7 @@ h3{
 
 .vlog{
     margin: 40px;
+    color: rgb(231, 29, 153);
+    border: 10px solid ;
+    box-shadow: 10px 10px;
 }

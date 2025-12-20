@@ -8,6 +8,7 @@ h3{
     margin: 40px;
     color: rgb(231, 29, 153);
     border: 5px solid green ;
+    border-radius: 10px;
     padding: 20px;
     box-shadow: 10px 10px;
 }

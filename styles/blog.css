@@ -6,8 +6,11 @@ h3{
 
 .new{
     height:300px;
-    background-color: azure;
+    background-image: url('mynul.jpeg');
+    background-repeat: no-repeat;
+    /* background-color: azure;
     margin: 20px;
+    padding: 20px; */
 }
 
 .vlog{

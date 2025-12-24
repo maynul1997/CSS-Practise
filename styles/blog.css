@@ -9,8 +9,10 @@ h3{
     color: blueviolet;
     background-image: url('07.jpg');
     /* background-repeat: no-repeat; */
-    background-repeat: repeat-x;
-    background-size: cover ;
+    /* background-repeat: repeat-x; */
+    /* background-size: cover ; */
+    /* background-size: contain; */
+    background-size: 200px;
     background-color: azure;
     margin: 20px;
     padding: 20px;
